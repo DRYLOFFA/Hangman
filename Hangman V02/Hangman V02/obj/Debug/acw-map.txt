@@ -1,0 +1,12 @@
+Hangman_V02.MainActivity, Hangman V02;md5e7c68f6c9f71711678293d8e8ddb46bc.MainActivity
+Hangman_V02.MainActivity, Hangman V02, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e7c68f6c9f71711678293d8e8ddb46bc.MainActivity
+Hangman_V02.MainActivity;md5e7c68f6c9f71711678293d8e8ddb46bc.MainActivity
+hangman_v02.MainActivity;md5e7c68f6c9f71711678293d8e8ddb46bc.MainActivity
+Hangman_V02.SecondActivity, Hangman V02;md5e7c68f6c9f71711678293d8e8ddb46bc.SecondActivity
+Hangman_V02.SecondActivity, Hangman V02, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e7c68f6c9f71711678293d8e8ddb46bc.SecondActivity
+Hangman_V02.SecondActivity;md5e7c68f6c9f71711678293d8e8ddb46bc.SecondActivity
+hangman_v02.SecondActivity;md5e7c68f6c9f71711678293d8e8ddb46bc.SecondActivity
+Hangman_V02.SplashActivity, Hangman V02;md5e7c68f6c9f71711678293d8e8ddb46bc.SplashActivity
+Hangman_V02.SplashActivity, Hangman V02, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e7c68f6c9f71711678293d8e8ddb46bc.SplashActivity
+Hangman_V02.SplashActivity;md5e7c68f6c9f71711678293d8e8ddb46bc.SplashActivity
+hangman_v02.SplashActivity;md5e7c68f6c9f71711678293d8e8ddb46bc.SplashActivity
